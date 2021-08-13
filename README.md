@@ -38,6 +38,6 @@ If you're having difficulties pinpointing bad habits you may have developed, or 
 * At the end of it all, make sure that you're still having fun, and focusing on things one step at a time. We can get ahead of ourselves, treating the game like our lives depend on it. Being carefree from time to time and enjoying fun workshop maps can allow your overall experience with the game to be better than you could've ever imagined. Have fun, and remember that the process is very long, but worth it if you treat it correctly.
 
 Compiled by
-swipr_, TheOnlyBarker (aka W0NTON) & prosthoplus
+swipr_, TheOnlyBarker, & prosthoplus
 
 In case this comment is outdated, here is the most recent version - [github link](https://github.com/swiprCS/CSGO-intermediate-Guide/)
